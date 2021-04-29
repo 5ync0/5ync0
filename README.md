@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @5ync0
+- 👀 I’m interested in Gaming and Programming
+- 🌱 I’m currently learning Front End Development and Python
+- 💞️ I’m looking to collaborate on Beginners project
+- 📫 Email : fasihimran14@gmail.com
